@@ -1,6 +1,6 @@
 # Good morning, world
 
-A quick initial commit.
+A quick initial commit. 
 
 # Getting Started with Create React App
 
